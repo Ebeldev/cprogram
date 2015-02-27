@@ -6,4 +6,4 @@
 : git commit -m"added this new files" //
 : git push // to synch all files to github.com
 : git pull // take content from the github.com to computer
-
+:
